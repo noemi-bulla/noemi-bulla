@@ -4,4 +4,4 @@
 - Single-cell multi-omics
 - Lineage tracing
 
-## 📫 Reach out on Linkedin (www.linkedin.com/in/noemi-bulla-19aabb121)
+# 📫 Reach out on Linkedin (www.linkedin.com/in/noemi-bulla-19aabb121)
